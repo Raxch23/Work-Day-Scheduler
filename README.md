@@ -14,7 +14,10 @@ Deloyed link: https://raxch23.github.io/Work-Day-Scheduler/
 
 # References:
 Date display format: https://day.js.org/docs/en/display/format
+
 Hour display format: https://day.js.org/docs/en/get-set/hour
+
 Starter code: https://day.js.org/docs/en/get-set/hour
+
 Starter code: https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js
 
